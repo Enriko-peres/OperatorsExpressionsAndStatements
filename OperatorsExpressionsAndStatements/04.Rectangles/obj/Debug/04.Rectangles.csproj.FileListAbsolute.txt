@@ -1,0 +1,11 @@
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.exe
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.pdb
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.pdb
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.pdb
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.csprojResolveAssemblyReference.cache

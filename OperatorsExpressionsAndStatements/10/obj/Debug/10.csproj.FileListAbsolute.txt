@@ -1,0 +1,3 @@
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10\bin\Debug\10.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10\obj\Debug\10.exe
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10\obj\Debug\10.pdb

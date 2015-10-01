@@ -1,0 +1,11 @@
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache

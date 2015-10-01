@@ -1,0 +1,2 @@
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\15.BitExchange\bin\Debug\15.BitExchange.exe.config
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\15.BitExchange\bin\Debug\15.BitExchange.exe.config

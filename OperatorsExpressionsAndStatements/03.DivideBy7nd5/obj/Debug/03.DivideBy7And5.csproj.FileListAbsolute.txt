@@ -1,0 +1,9 @@
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\bin\Debug\03.DivideBy7nd5.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\bin\Debug\03.DivideBy7nd5.exe
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\bin\Debug\03.DivideBy7nd5.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\obj\Debug\03.DivideBy7And5.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\obj\Debug\03.DivideBy7nd5.exe
+c:\users\pablo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\obj\Debug\03.DivideBy7nd5.pdb
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\bin\Debug\03.DivideBy7nd5.exe.config
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\obj\Debug\03.DivideBy7nd5.exe
+C:\Users\Paco\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\03.DivideBy7nd5\obj\Debug\03.DivideBy7nd5.pdb
